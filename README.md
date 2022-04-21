@@ -48,7 +48,7 @@ WEEKS_TO_KEEP=4
 ######################################
 ```
 
-## Programación de la ejecución en 
+## Programación de la ejecución
 
 Para poder delegar la ejecución del _script_ a `crond`, esto es, hacer las copias automágicamente de manera desatendida, debemos crear un fichero `pgpass` en la `home` del usuario y dar de alta las credenciales necesarias para las cadenas de conexión a las bases de datos:
 
